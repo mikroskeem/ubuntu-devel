@@ -1,5 +1,7 @@
 # ubuntu-devel
 
+![Quay status](https://quay.io/repository/mikroskeem/ubuntu-devel/status)
+
 See available branches
 
 ## Why?
