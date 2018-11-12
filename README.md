@@ -18,6 +18,14 @@ applications (like [I do](https://github.com/mikroskeem/musl_root/tree/master/ci
 
 See https://quay.io/mikroskeem/ubuntu-devel
 
+`docker pull quay.io/mikroskeem/ubuntu-devel:<branch tag>`
+
+Example: branch name here is `ubuntu/18.04/vanilla`, then image tag would be
+`ubuntu_18.04_vanilla`
+
+Note: pulling tag `latest` will give you a random image, so please stick
+to ones with special labels (named according to this repository's branches)
+
 ## License (on Dockerfiles!)
 
 MIT
