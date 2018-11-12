@@ -1,6 +1,6 @@
 # ubuntu-devel
 
-![Quay status](https://quay.io/repository/mikroskeem/ubuntu-devel/status)
+[![Quay status](https://quay.io/repository/mikroskeem/ubuntu-devel/status)](https://quay.io/mikroskeem/ubuntu-devel)
 
 See available branches
 
